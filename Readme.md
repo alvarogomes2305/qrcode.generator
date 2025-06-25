@@ -88,7 +88,7 @@ Lembre-se de substituir o caminho do arquivo .env pelo caminho do arquivo de amb
 ---
 
 
-<img src="/diagram.png"/>
+<img src=".github/imagem.png"/>
 
 ## Terminais de API
 
